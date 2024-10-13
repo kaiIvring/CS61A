@@ -12,7 +12,6 @@ def a_plus_abs_b(a, b):
     >>> a_plus_abs_b(-1, -4)
     3
     """
-    
     if b < 0:
         f = lambda x, y: x - y
     else:
