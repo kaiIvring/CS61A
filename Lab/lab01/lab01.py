@@ -120,7 +120,7 @@ def double_eights(n):
     False
     """
     "*** YOUR CODE HERE ***"
-    
+
     while n != 0:
         if n % 10 == 8:
             n = n // 10
