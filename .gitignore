@@ -3,4 +3,7 @@
 .ok_storage.bak
 .ok_storage.dat
 .ok_storage.dir
+**/.idea/
+**/*.ok
+**/__pycache__/
 
